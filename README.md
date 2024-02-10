@@ -17,13 +17,20 @@
 ### **OBRL - Olímpiada Brasileira de Raciocínio Lógico | 🏅🥈**
 - <a href="https://www.obrl.com.br/site/arquivos/CERTIFICADOS_OBRL_2021_TETA.pdf">2021 (5° ano) - OURO</a>
 - <a href="file:///E:/Downloads/medalhistas-obrl-2022_ALFA.pdf">2022 (6° ano) - PRATA  </a>
+- <a href="https://www.obrl.com.br/file-download/MEDALHISTAS-2023.pdf">2022 (7° ano) - PRATA  </a>
 ##
 ### **OBR - Olímpiada Brasileira de Robótica | 🥉**
 - 2021 (5° ano) - BRONZE
 (NÃO ACHEI QUADRO DE MEDALHAS)
 ##
-### **Jacob Palis | 🏅**
+### **Competição Jacob Palis Júnior de Matemática | 🏅**
 - <a href="https://docs.google.com/spreadsheets/d/14I8HueKI4_WZgakNnjk-ALFsMC1GWB9P/edit#gid=1331938362">2023 (7° ano) - Honra ao mérito</a>
 ##
 ### **OIM - Olímpiada Itabirana de Matemática | 🏅**
 - <a href="https://www.olimpiadaitabirana.com.br/static/pdfs/resultado/Resultado-Final-OIM-2023-revisado.pdf">2023 (7° ano) - Honra ao mérito </a>
+##
+### **OBMEP - Olímpiada Brasileira de Matemática das Escolas Públicas e Particulares | 🥈**
+- <a href="https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosPrata.privada.do.htm">2023 (7° ano) - PRATA REGIONAL E PRATA NACIONAL </a>
+##
+### **OBM - Olímpiada Brasileira de Matemática | 🥈**
+- <a href="https://www.obm.org.br/premiados-obm-2023/">2023 (7° ano) - PRATA </a>
